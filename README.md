@@ -1,1 +1,1 @@
-# Potato-Disease-Detection
+# Potato-Leaf-Disease-Detection
